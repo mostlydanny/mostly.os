@@ -94,8 +94,9 @@ pnpm format
 **[mostlydanny.dev](https://mostlydanny.dev)**
 
 ## Screenshots
-
-Screenshots of the desktop, themes, and applications will be added here.
+<img width="1920" height="1080" alt="mostlyosMktImg01" src="https://github.com/user-attachments/assets/c7d45b3d-2209-4809-adad-14db584974d4" />
+<img width="1920" height="1080" alt="mostlyosMktImg02" src="https://github.com/user-attachments/assets/bac8faf7-8f79-4f0b-89db-07cf5c7ad40c" />
+<img width="1920" height="1080" alt="mostlyosMktImg03" src="https://github.com/user-attachments/assets/e9e2e5f4-b7c6-4569-9402-9393065ffa39" />
 
 ## About
 
